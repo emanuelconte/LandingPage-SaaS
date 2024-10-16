@@ -26,7 +26,7 @@ const testimonials = [
     username: "@jjsmith",
   },
   {
-    text: "This app has completely transformed how I manage my projects and deadlines.",
+    text: "This app has completely transformed how to manage my projects and deadlines.",
     imageSrc: avatar3.src,
     name: "Morgan Lee",
     username: "@morganleewhiz",
