@@ -20,7 +20,7 @@ const testimonials = [
     username: "@jamietechguru00",
   },
   {
-    text: "Our team's productivity has skyrocketed since we started using this tool. ",
+    text: "Our team's productivity has skyrocketed since we started using this. ",
     imageSrc: avatar2.src,
     name: "Josh Smith",
     username: "@jjsmith",
